@@ -1,0 +1,10 @@
+name: queens-solver
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv=4.11.0
+  - pillow=11.2.1
+  - numpy=2.0.2
+  - scikit-learn=1.6.1
+  - scipy=1.13.1
